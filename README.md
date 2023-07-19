@@ -51,6 +51,4 @@ SSHPLUS Pelo proxy Websocket Crazy
 
 https://t.me/sshplus
 
-Dt Tunnel (Dutra), Pelo proxy DT Tunnel
 
-https://painel.dtunnel.com.br/
