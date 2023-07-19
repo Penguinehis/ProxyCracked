@@ -41,3 +41,16 @@ para executar apenas digite ./wssecX86
 ```
 
 Não precisa de token pode deixar em branco mesmo, ou executar direto sem o main
+
+
+#Creditos:
+
+Gostaram dos softwares?, considerem ajudar os desenvolvedores comprando a versão oficial!
+
+SSHPLUS Pelo proxy Websocket Crazy
+
+https://t.me/sshplus
+
+Dt Tunnel (Dutra), Pelo proxy DT Tunnel
+
+https://painel.dtunnel.com.br/
