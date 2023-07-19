@@ -43,7 +43,7 @@ para executar apenas digite ./wssecX86
 Não precisa de token pode deixar em branco mesmo, ou executar direto sem o main
 
 
-#Creditos:
+# Creditos:
 
 Gostaram dos softwares?, considerem ajudar os desenvolvedores comprando a versão oficial!
 
