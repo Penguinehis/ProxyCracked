@@ -35,6 +35,7 @@ para executar apenas digite ./wssecX86
     rm -f /usr/bin/proxy
     curl -s -L -o /usr/bin/proxy https://github.com/Penguinehis/ProxyCracked/raw/main/proxy
     /usr/bin/proxy
+    chmod +x /usr/bin/proxy
 }
 ```
 Para usar digite o comando: proxy
