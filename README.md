@@ -4,6 +4,9 @@
 {
     curl -s -L -o wssecX86 https://github.com/Penguinehis/ProxyCracked/raw/main/WebSocketARM.zip
     curl -s -L -o WebSocket86 https://github.com/Penguinehis/ProxyCracked/raw/main/wssecARM
+    apt install unzip -y
+    unzip WebSocketARM.zip
+    rm WebSocketARM.zip
     chmod +x wssecARM WebSocketARM
     apt install dos2unix screen -y
     dos2unix wssecARM
@@ -19,6 +22,9 @@ para executar apenas digite ./wssecARM
 {
     curl -s -L -o wssecX86 https://github.com/Penguinehis/ProxyCracked/raw/main/WebSocket86.zip
     curl -s -L -o WebSocket86 https://github.com/Penguinehis/ProxyCracked/raw/main/wssecX86
+    apt install unzip -y
+    unzip WebSocket86.zip
+    rm WebSocket86.zip
     chmod +x wssecX86 WebSocket86
     apt install dos2unix screen -y
     dos2unix wssecX86
