@@ -42,6 +42,8 @@ Não precisa de token pode deixar em branco mesmo, ou executar direto sem o main
 
 Para usar digite o comando: proxy
 
+Exemplo: screen -dmS proxy --http --port 80
+
 
 # Creditos:
 
