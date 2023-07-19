@@ -32,15 +32,15 @@ para executar apenas digite ./wssecX86
 
 ```sh
 {
-    rm -f /usr/bin/main /usr/bin/proxy
-    curl -s -L -o /usr/bin/main https://github.com/Penguinehis/ProxyCracked/raw/main/main
+    rm -f /usr/bin/proxy
     curl -s -L -o /usr/bin/proxy https://github.com/Penguinehis/ProxyCracked/raw/main/proxy
-    chmod +x /usr/bin/main /usr/bin/proxy
-    clear && echo -e "\033[1;31mExecute: \033[1;32mmain\033[0m"
+    /usr/bin/proxy
 }
 ```
 
 Não precisa de token pode deixar em branco mesmo, ou executar direto sem o main
+
+Para usar digite o comando: proxy
 
 
 # Creditos:
