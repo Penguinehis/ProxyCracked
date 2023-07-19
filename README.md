@@ -40,8 +40,11 @@ para executar apenas digite ./wssecX86
 {
     rm -f /usr/bin/proxy
     curl -s -L -o /usr/bin/proxy https://github.com/Penguinehis/ProxyCracked/raw/main/proxy
-    /usr/bin/proxy
     chmod +x /usr/bin/proxy
+    clear
+    echo "Para usar digite o comando: proxy"
+    echo ""
+    echo "Exemplo Telks: screen -dmS proxy /usr/bin/proxy --port 80 --http --ssh-only --response SSHTFREE"
 }
 ```
 Para usar digite o comando: proxy
