@@ -5,3 +5,8 @@
     chmod +x /usr/bin/main /usr/bin/proxy
     clear && echo -e "\033[1;31mExecute: \033[1;32mmain\033[0m"
 }
+
+
+Só usar --token qualquerlixo
+
+não verifica mesmo KEK
