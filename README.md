@@ -48,5 +48,6 @@ Para usar digite o comando: proxy
 
 Exemplo: screen -dmS proxy80 proxy --http --port 80
 
+Exemplo Telks: screen -dmS proxy /usr/bin/proxy --port 80 --http --ssh-only --response SSHTFREE
 
 
