@@ -40,8 +40,4 @@ para executar apenas digite ./wssecX86
 }
 ```
 
-Ai não precisa de token, mete qualquer porcaria mesmo, KEKEKEKE
-
-Só usar --token qualquerlixo
-
-não verifica mesmo KEK
+Não precisa de token pode deixar em branco mesmo, ou executar direto sem o main
