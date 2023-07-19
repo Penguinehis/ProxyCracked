@@ -1,0 +1,3 @@
+#!/bin/bash
+message=$1
+screen -dmS novoWS WebSocketARM -proxy_port 0.0.0.0:80 -msg=$message
