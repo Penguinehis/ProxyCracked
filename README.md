@@ -39,7 +39,7 @@ para executar apenas digite ./wssecX86
 ```
 Para usar digite o comando: proxy
 
-Exemplo: screen -dmS proxy --http --port 80
+Exemplo: screen -dmS proxy80 proxy --http --port 80
 
 
 
