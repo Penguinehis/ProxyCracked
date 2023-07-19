@@ -45,9 +45,6 @@ Para usar digite o comando: proxy
 Exemplo: screen -dmS proxy --http --port 80
 
 
-# Creditos:
-
-Gostaram dos softwares?, considerem ajudar os desenvolvedores comprando a versão oficial!
 
 SSHPLUS Pelo proxy Websocket Crazy
 
