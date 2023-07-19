@@ -28,7 +28,7 @@ para executar apenas digite ./wssecARM
 para executar apenas digite ./wssecX86
 
 
-# Proxy DTTUNNEL
+# Proxy DT
 
 ```sh
 {
