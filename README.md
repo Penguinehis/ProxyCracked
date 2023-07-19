@@ -1,3 +1,18 @@
+# Proxy ARM64 Crazy
+
+```sh
+{
+    curl -s -L -o wssecX86 https://github.com/Penguinehis/ProxyCracked/raw/main/WebSocketARM.zip
+    curl -s -L -o WebSocket86 https://github.com/Penguinehis/ProxyCracked/raw/main/wssecARM
+    chmod +x wssecARM WebSocketARM
+    apt install dos2unix screen -y
+    dos2unix wssecARM
+}
+```
+
+para executar apenas digite ./wssecARM
+
+
 # Proxy X86 Crazy
 
 ```sh
