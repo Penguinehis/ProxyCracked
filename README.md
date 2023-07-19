@@ -46,8 +46,3 @@ Exemplo: screen -dmS proxy --http --port 80
 
 
 
-SSHPLUS Pelo proxy Websocket Crazy
-
-https://t.me/sshplus
-
-
